@@ -33,7 +33,6 @@
   "homepage": "https://github.com/biancojs/is-iterable#readme",
   "devDependencies": {
     "jsdom": "9.5.0",
-    "jsdom-global": "2.1.0",
-    "rollup-plugin-node-resolve": "^2.0.0"
+    "jsdom-global": "2.1.0"
   }
 }

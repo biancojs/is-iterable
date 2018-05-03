@@ -33,7 +33,7 @@
   },
   "homepage": "https://github.com/biancojs/is-iterable#readme",
   "devDependencies": {
-    "jsdom": "9.5.0",
-    "jsdom-global": "2.1.0"
+    "jsdom": "11.7.0",
+    "jsdom-global": "3.0.2"
   }
 }

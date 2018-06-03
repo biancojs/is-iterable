@@ -1,6 +1,6 @@
 {
   "name": "bianco.is-iterable",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Function returning true if an object could be looped",
   "main": "index.js",
   "jsnext:main": "index.next.js",

@@ -4,8 +4,8 @@ const isIterable = require('./')
 const body = document.body
 
 describe('Bianco is isIterable', function() {
-  before(function () {
-    var div = document.createElement('div')
+  before(function() {
+    const div = document.createElement('div')
     div.innerHTML = `
       <ul>
         <li>one

@@ -1,5 +1,7 @@
 # bianco.is-iterable
 
+__This package is no longer maintained__
+
 [![Build Status][travis-image]][travis-url]
 
 [![NPM version][npm-version-image]][npm-url]
